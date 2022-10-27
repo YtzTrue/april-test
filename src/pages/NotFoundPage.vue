@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Houston, we hava a problem:(</h1>
+    <h1>Houston, we have a problem:(</h1>
     <router-link :to="{name: 'main'}">Back to main</router-link>
   </div>
   </template>
